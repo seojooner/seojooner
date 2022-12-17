@@ -1,19 +1,27 @@
-👋 hey there!
-who am i
-my name is andrey, i'm 14 years old and i am professionally writing this readme page for 15 minutes straight. please show some love
+### 👋 hey there!
 
-i can speak русский, english
+## who am i
 
-what do i do
-stuff, code, some more stuff, some more code, sleep, eat, repeat
+my name is **andrey**, i'm **14 years old** and i am professionally writing this readme page for **15 minutes straight**. _please show some love_
 
-projects
+i can speak **русский**, **english**
 
-how can you contact me
-i've got telegram, telegram channel, vk and facebook
+## what do i do
 
-where
+stuff, code, some more stuff, some more code, sleep, eat, go to school, repeat
+
+## projects
+
+soon
+
+## how can you contact me
+
+i've got [**telegram**](https://t.me/seokeag), [**telegram channel**](https://t.me/justchannelfromseo), [**vk**](https://vk.com/seokeag)
+
+## where
+
 where what
 
-ok thanks
+## ok thanks
+
 you're welcome
