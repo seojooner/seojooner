@@ -1,16 +1,19 @@
-### Hi there 👋
+👋 hey there!
+who am i
+my name is andrey, i'm 14 years old and i am professionally writing this readme page for 15 minutes straight. please show some love
 
-<!--
-**seojooner/seojooner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i can speak русский, english
 
-Here are some ideas to get you started:
+what do i do
+stuff, code, some more stuff, some more code, sleep, eat, repeat
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+projects
+
+how can you contact me
+i've got telegram, telegram channel, vk and facebook
+
+where
+where what
+
+ok thanks
+you're welcome
